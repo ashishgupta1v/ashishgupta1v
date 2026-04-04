@@ -59,14 +59,6 @@ I am a high-performance Staff Architect with 8+ years of experience specializing
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ashishgupta1v&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgupta1v&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🚀 Notable Work:
 
 - **DDD-Driven Architecture** — Designed and implemented hexagonal architecture with clear domain boundaries, reducing coupling and improving testability
