@@ -70,7 +70,7 @@ I am a high-performance Staff Architect with 8+ years of experience specializing
 ## 📫 Let's Connect:
 
 - 💼 **LinkedIn**: [linkedin.com/in/ashishgupta1v](https://www.linkedin.com/in/ashishgupta1v/)
-- 🌐 **Portfolio**: [ashgpt.dev](https://www.ashishgupta.dev/)
+- 🌐 **Portfolio**: [ashishgupta.dev](https://www.ashishgupta.dev/)
 - 💻 **GitHub**: [github.com/ashishgupta1v](https://github.com/ashishgupta1v)
 
 ---
